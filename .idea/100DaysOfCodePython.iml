@@ -3,6 +3,9 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day 63 Databases SQLite SQLAlchemy/Library/instance" />
+      <excludeFolder url="file://$MODULE_DIR$/Day 64 My Top 10 Movies/movie-project/instance" />
+      <excludeFolder url="file://$MODULE_DIR$/Day_66_Build_a_RESTFUL_API/Cafe_API/instance" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.10 (100DaysOfCodePython)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

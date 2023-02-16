@@ -1,0 +1,5 @@
+{% with messages = get_flashed_messages() %}
+    {% if messages %}
+        <p style="text-align:center">{{ messages[-1] }}</p>
+    {% endif %}
+{% endwith %}

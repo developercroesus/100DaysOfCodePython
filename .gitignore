@@ -127,3 +127,144 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/Automating Job Applications on LinkedIn/.idea/.gitignore
+/SeleniumWebdriver/.idea/.gitignore
+/Day 56 Rendering HTML files and using Templates/name-card/static/images/gallery/fulls/01.jpg
+/Day 56 Rendering HTML files and using Templates/name-card/static/images/gallery/thumbs/01.jpg
+/Day 56 Rendering HTML files and using Templates/name-card/static/images/gallery/fulls/02.jpg
+/Day 56 Rendering HTML files and using Templates/name-card/static/images/gallery/thumbs/02.jpg
+/Day 56 Rendering HTML files and using Templates/name-card/static/images/gallery/fulls/03.jpg
+/Day 56 Rendering HTML files and using Templates/name-card/static/images/gallery/thumbs/03.jpg
+/Day 56 Rendering HTML files and using Templates/name-card/static/images/gallery/fulls/04.jpg
+/Day 56 Rendering HTML files and using Templates/name-card/static/images/gallery/thumbs/04.jpg
+/Day 56 Rendering HTML files and using Templates/name-card/static/images/gallery/fulls/05.jpg
+/Day 56 Rendering HTML files and using Templates/name-card/static/images/gallery/thumbs/05.jpg
+/Day 56 Rendering HTML files and using Templates/name-card/static/images/gallery/fulls/06.jpg
+/Day 56 Rendering HTML files and using Templates/name-card/static/images/gallery/thumbs/06.jpg
+/Day 56 Rendering HTML files and using Templates/name-card/static/images/gallery/fulls/07.jpg
+/Day 56 Rendering HTML files and using Templates/name-card/static/images/gallery/thumbs/07.jpg
+/Day 56 Rendering HTML files and using Templates/name-card/static/images/gallery/fulls/08.jpg
+/Day 56 Rendering HTML files and using Templates/name-card/static/images/gallery/thumbs/08.jpg
+/Day 56 Rendering HTML files and using Templates/name-card/static/images/gallery/fulls/09.jpg
+/Day 56 Rendering HTML files and using Templates/name-card/static/images/gallery/thumbs/09.jpg
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/sass/components/_actions.scss
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/sass/libs/_breakpoints.scss
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/sass/components/_button.scss
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/sass/components/_contact-icons.scss
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/sass/components/_form.scss
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/sass/libs/_functions.scss
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/sass/components/_gallery.scss
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/sass/components/_grid-icons.scss
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/sass/components/_icon.scss
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/sass/components/_icons.scss
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/sass/components/_image.scss
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/sass/components/_list.scss
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/sass/libs/_mixins.scss
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/sass/base/_page.scss
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/sass/layout/_page-wrapper.scss
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/sass/components/_panel.scss
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/sass/components/_panel-banner.scss
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/sass/components/_panel-spotlight.scss
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/sass/base/_reset.scss
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/sass/components/_table.scss
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/sass/base/_typography.scss
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/sass/libs/_vars.scss
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/sass/libs/_vendor.scss
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/sass/layout/_wrapper.scss
+/Day 56 Rendering HTML files and using Templates/static/images/angela.png
+/Day 56 Rendering HTML files and using Templates/name-card/static/images/bg.jpg
+/Day 56 Rendering HTML files and using Templates/name-card/static/images/bg-old.jpg
+/Day 57 Templating with Jinja in Flask Applications/blog-templating-start.zip
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/js/bootstrap.bundle.js
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/js/bootstrap.bundle.js.map
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/js/bootstrap.bundle.min.js
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/js/bootstrap.bundle.min.js.map
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css/bootstrap.css
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css/bootstrap.css.map
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/js/bootstrap.esm.js
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/js/bootstrap.esm.js.map
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/js/bootstrap.esm.min.js
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/js/bootstrap.esm.min.js.map
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/js/bootstrap.js
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/js/bootstrap.js.map
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css/bootstrap.min.css
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css/bootstrap.min.css.map
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/js/bootstrap.min.js
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/js/bootstrap.min.js.map
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css/bootstrap.rtl.css
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css/bootstrap.rtl.css.map
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css/bootstrap.rtl.min.css
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css/bootstrap.rtl.min.css.map
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist.zip
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-examples.zip
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css/bootstrap-grid.css
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css/bootstrap-grid.css.map
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css/bootstrap-grid.min.css
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css/bootstrap-grid.min.css.map
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css/bootstrap-grid.rtl.css
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css/bootstrap-grid.rtl.css.map
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css/bootstrap-grid.rtl.min.css
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css/bootstrap-grid.rtl.min.css.map
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css/bootstrap-reboot.css
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css/bootstrap-reboot.css.map
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css/bootstrap-reboot.min.css
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css/bootstrap-reboot.min.css.map
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css/bootstrap-reboot.rtl.css
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css/bootstrap-reboot.rtl.css.map
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css/bootstrap-reboot.rtl.min.css
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css/bootstrap-reboot.rtl.min.css.map
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css/bootstrap-utilities.css
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css/bootstrap-utilities.css.map
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css/bootstrap-utilities.min.css
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css/bootstrap-utilities.min.css.map
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css/bootstrap-utilities.rtl.css
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css/bootstrap-utilities.rtl.css.map
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css/bootstrap-utilities.rtl.min.css
+/Day 58 Web Foundation Bootstrap/bootstrap-5.3.0-alpha1-dist/bootstrap-5.3.0-alpha1-dist/css/bootstrap-utilities.rtl.min.css.map
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/js/breakpoints.min.js
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/js/browser.min.js
+/Day 56 Rendering HTML files and using Templates/static/images/chillies.png
+/Day 56 Rendering HTML files and using Templates/static/images/cloud.png
+/Day 56 Rendering HTML files and using Templates/static/images/computer.png
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/webfonts/fa-brands-400.eot
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/webfonts/fa-brands-400.svg
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/webfonts/fa-brands-400.ttf
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/webfonts/fa-brands-400.woff
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/webfonts/fa-brands-400.woff2
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/webfonts/fa-regular-400.eot
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/webfonts/fa-regular-400.svg
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/webfonts/fa-regular-400.ttf
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/webfonts/fa-regular-400.woff
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/webfonts/fa-regular-400.woff2
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/webfonts/fa-solid-900.eot
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/webfonts/fa-solid-900.svg
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/webfonts/fa-solid-900.ttf
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/webfonts/fa-solid-900.woff
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/webfonts/fa-solid-900.woff2
+/Day 56 Rendering HTML files and using Templates/static/favicon.ico
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/css/fontawesome-all.min.css
+/Day 56 Rendering HTML files and using Templates/name-card/templates/index.html
+/Day 56 Rendering HTML files and using Templates/name-card/static/images/jay.png
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/js/jquery.min.js
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/css/main.css
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/js/main.js
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/sass/main.scss
+/Automating Job Applications on LinkedIn/.idea/misc.xml
+/SeleniumWebdriver/.idea/misc.xml
+/Automating Job Applications on LinkedIn/.idea/modules.xml
+/SeleniumWebdriver/.idea/modules.xml
+/Day 56 Rendering HTML files and using Templates/static/images/mountain.png
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/css/noscript.css
+/Day 56 Rendering HTML files and using Templates/name-card/static/assets/sass/noscript.scss
+/Day 56 Rendering HTML files and using Templates/name-card/static/images/overlay.png
+/Day 56 Rendering HTML files and using Templates/name-card/static/images/pic01.jpg
+/Day 56 Rendering HTML files and using Templates/name-card/static/images/pic02.jpg
+/Day 56 Rendering HTML files and using Templates/name-card/static/images/pic03.jpg
+/Automating Job Applications on LinkedIn/.idea/inspectionProfiles/profiles_settings.xml
+/SeleniumWebdriver/.idea/inspectionProfiles/profiles_settings.xml
+/Day 58 Web Foundation Bootstrap/sneakpeekit-4-browsers.zip
+/Day 58 Web Foundation Bootstrap/sneakpeekit-browser.zip
+/Day 56 Rendering HTML files and using Templates/static/css/style.css
+/Day 58 Web Foundation Bootstrap/TinDog+Start+Here.zip
+/Automating Job Applications on LinkedIn/.idea/vcs.xml
+/SeleniumWebdriver/.idea/vcs.xml
